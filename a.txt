@@ -1,0 +1,113 @@
+depth: 1, Square: 9,8	depth: 2, Square: 9,8	depth: 3, Square: 9,8	depth: 4, Square: 8,8	depth: 5, Square: 9,8	depth: 6, Square: 8,8	
+depth: 1, Square: 10,10	depth: 2, Square: 10,8	depth: 3, Square: 10,10	depth: 4, Square: 10,8	depth: 5, Square: 7,11	depth: 6, Square: 10,8	
+depth: 1, Square: 8,11	depth: 2, Square: 9,8	depth: 3, Square: 8,11	depth: 4, Square: 9,8	depth: 5, Square: 9,8	depth: 6, Square: 9,8	depth: 7, Square: 9,8	depth: 8, Square: 11,9	
+depth: 1, Square: 9,13	depth: 2, Square: 9,8	depth: 3, Square: 9,12	depth: 4, Square: 9,8	depth: 5, Square: 9,8	depth: 6, Square: 9,8	depth: 7, Square: 9,8	depth: 8, Square: 9,8	depth: 9, Square: 9,8	depth: 10, Square: 9,8	
+depth: 1, Square: 8,12	depth: 2, Square: 9,12	depth: 3, Square: 7,8	depth: 4, Square: 12,10	depth: 5, Square: 7,8	depth: 6, Square: 12,10	depth: 7, Square: 9,7	depth: 8, Square: 12,10	
+depth: 1, Square: 8,12	depth: 2, Square: 13,11	depth: 3, Square: 7,8	depth: 4, Square: 10,9	depth: 5, Square: 7,8	depth: 6, Square: 10,9	depth: 7, Square: 13,11	depth: 8, Square: 10,9	
+depth: 1, Square: 12,14	depth: 2, Square: 6,8	depth: 3, Square: 13,11	depth: 4, Square: 14,12	depth: 5, Square: 13,11	depth: 6, Square: 7,9	depth: 7, Square: 13,11	depth: 8, Square: 11,13	depth: 9, Square: 13,11	
+depth: 1, Square: 9,6	depth: 2, Square: 13,11	depth: 3, Square: 13,11	depth: 4, Square: 9,13	depth: 5, Square: 13,11	depth: 6, Square: 11,10	
+depth: 1, Square: 9,12	depth: 2, Square: 9,12	depth: 3, Square: 9,12	depth: 4, Square: 9,12	depth: 5, Square: 9,12	depth: 6, Square: 9,12	depth: 7, Square: 9,12	depth: 8, Square: 9,12	depth: 9, Square: 9,12	depth: 10, Square: 9,12	
+depth: 1, Square: 8,7	depth: 2, Square: 8,7	depth: 3, Square: 8,7	depth: 4, Square: 8,7	depth: 5, Square: 8,7	depth: 6, Square: 8,7	
+depth: 1, Square: 10,9	depth: 2, Square: 10,7	depth: 3, Square: 10,9	depth: 4, Square: 10,7	depth: 5, Square: 7,10	depth: 6, Square: 10,7	
+depth: 1, Square: 10,10	depth: 2, Square: 9,7	depth: 3, Square: 10,10	depth: 4, Square: 9,7	depth: 5, Square: 9,7	depth: 6, Square: 9,9	depth: 7, Square: 7,7	depth: 8, Square: 9,7	
+depth: 1, Square: 12,7	depth: 2, Square: 7,9	depth: 3, Square: 7,7	depth: 4, Square: 7,9	depth: 5, Square: 7,7	depth: 6, Square: 8,8	depth: 7, Square: 9,10	
+depth: 1, Square: 6,9	depth: 2, Square: 7,9	depth: 3, Square: 7,7	depth: 4, Square: 7,9	depth: 5, Square: 7,7	depth: 6, Square: 7,9	depth: 7, Square: 7,9	depth: 8, Square: 7,9	depth: 9, Square: 7,7	
+depth: 1, Square: 10,10	depth: 2, Square: 7,7	depth: 3, Square: 6,10	depth: 4, Square: 7,8	depth: 5, Square: 7,7	depth: 6, Square: 7,8	depth: 7, Square: 7,7	depth: 8, Square: 7,8	
+depth: 1, Square: 10,10	depth: 2, Square: 6,10	depth: 3, Square: 6,10	depth: 4, Square: 9,6	depth: 5, Square: 6,10	depth: 6, Square: 9,6	depth: 7, Square: 10,10	depth: 8, Square: 9,6	
+depth: 1, Square: 10,10	depth: 2, Square: 6,10	depth: 3, Square: 10,5	depth: 4, Square: 11,8	depth: 5, Square: 6,10	depth: 6, Square: 11,8	depth: 7, Square: 8,6	depth: 8, Square: 11,8	
+depth: 1, Square: 11,9	depth: 2, Square: 11,9	depth: 3, Square: 11,9	depth: 4, Square: 11,9	depth: 5, Square: 11,9	depth: 6, Square: 11,9	depth: 7, Square: 11,9	depth: 8, Square: 11,9	
+depth: 1, Square: 13,5	depth: 2, Square: 8,5	depth: 3, Square: 5,11	depth: 4, Square: 8,10	depth: 5, Square: 5,11	depth: 6, Square: 8,10	depth: 7, Square: 5,11	depth: 8, Square: 8,10	depth: 9, Square: 5,11	
+depth: 1, Square: 14,10	depth: 2, Square: 8,5	depth: 3, Square: 5,11	depth: 4, Square: 8,5	depth: 5, Square: 5,11	depth: 6, Square: 8,5	depth: 7, Square: 5,11	depth: 8, Square: 9,5	depth: 9, Square: 8,5	depth: 10, Square: 9,5	
+depth: 1, Square: 13,5	depth: 2, Square: 13,5	depth: 3, Square: 13,5	depth: 4, Square: 13,5	depth: 5, Square: 13,5	depth: 6, Square: 13,5	depth: 7, Square: 13,5	depth: 8, Square: 13,5	depth: 9, Square: 13,5	depth: 10, Square: 13,5	
+depth: 1, Square: 12,10	depth: 2, Square: 12,5	depth: 3, Square: 12,5	depth: 4, Square: 12,5	depth: 5, Square: 12,5	depth: 6, Square: 12,5	depth: 7, Square: 12,5	depth: 8, Square: 12,5	depth: 9, Square: 12,5	depth: 10, Square: 12,5	
+depth: 1, Square: 11,7	depth: 2, Square: 8,8	depth: 3, Square: 11,7	depth: 4, Square: 9,7	depth: 5, Square: 11,7	depth: 6, Square: 9,7	
+depth: 1, Square: 9,10	depth: 2, Square: 8,8	depth: 3, Square: 9,10	depth: 4, Square: 8,8	depth: 5, Square: 11,8	depth: 6, Square: 8,8	
+depth: 1, Square: 11,11	depth: 2, Square: 10,6	depth: 3, Square: 11,11	depth: 4, Square: 7,9	depth: 5, Square: 7,9	depth: 6, Square: 7,9	depth: 7, Square: 10,6	depth: 8, Square: 10,7	
+depth: 1, Square: 11,11	depth: 2, Square: 7,9	depth: 3, Square: 11,11	depth: 4, Square: 7,9	depth: 5, Square: 10,6	depth: 6, Square: 7,9	depth: 7, Square: 7,9	depth: 8, Square: 10,9	
+depth: 1, Square: 10,11	depth: 2, Square: 7,9	depth: 3, Square: 10,11	depth: 4, Square: 7,9	depth: 5, Square: 7,7	depth: 6, Square: 12,8	depth: 7, Square: 7,9	
+depth: 1, Square: 10,11	depth: 2, Square: 7,9	depth: 3, Square: 13,11	depth: 4, Square: 7,9	depth: 5, Square: 11,11	depth: 6, Square: 10,6	depth: 7, Square: 7,7	depth: 8, Square: 10,6	
+depth: 1, Square: 10,11	depth: 2, Square: 7,9	depth: 3, Square: 7,9	depth: 4, Square: 11,7	depth: 5, Square: 7,9	depth: 6, Square: 7,9	depth: 7, Square: 7,9	depth: 8, Square: 11,8	
+depth: 1, Square: 8,5	depth: 2, Square: 7,9	depth: 3, Square: 7,9	depth: 4, Square: 11,7	depth: 5, Square: 7,9	depth: 6, Square: 11,7	depth: 7, Square: 7,9	depth: 8, Square: 11,7	depth: 9, Square: 11,7	
+depth: 1, Square: 8,5	depth: 2, Square: 12,7	depth: 3, Square: 13,7	depth: 4, Square: 12,7	depth: 5, Square: 12,7	depth: 6, Square: 12,7	depth: 7, Square: 12,7	depth: 8, Square: 12,7	depth: 9, Square: 12,7	
+depth: 1, Square: 8,5	depth: 2, Square: 13,6	depth: 3, Square: 13,6	depth: 4, Square: 13,6	depth: 5, Square: 13,6	depth: 6, Square: 13,6	depth: 7, Square: 13,6	depth: 8, Square: 13,6	depth: 9, Square: 13,6	depth: 10, Square: 13,6	
+depth: 1, Square: 9,10	depth: 2, Square: 9,10	depth: 3, Square: 9,10	depth: 4, Square: 9,10	depth: 5, Square: 9,10	depth: 6, Square: 9,10	depth: 7, Square: 9,10	depth: 8, Square: 9,10	depth: 9, Square: 9,10	depth: 10, Square: 9,10	
+depth: 1, Square: 8,5	depth: 2, Square: 13,6	depth: 3, Square: 13,6	depth: 4, Square: 13,6	depth: 5, Square: 13,6	depth: 6, Square: 13,6	depth: 7, Square: 13,6	depth: 8, Square: 13,6	depth: 9, Square: 13,6	depth: 10, Square: 13,6	
+depth: 1, Square: 9,7	depth: 2, Square: 8,8	depth: 3, Square: 9,7	depth: 4, Square: 8,8	depth: 5, Square: 9,7	depth: 6, Square: 8,8	
+depth: 1, Square: 11,11	depth: 2, Square: 8,10	depth: 3, Square: 11,11	depth: 4, Square: 8,10	depth: 5, Square: 7,7	depth: 6, Square: 8,10	
+depth: 1, Square: 11,11	depth: 2, Square: 10,8	depth: 3, Square: 11,11	depth: 4, Square: 10,8	depth: 5, Square: 8,9	depth: 6, Square: 10,8	depth: 7, Square: 10,8	depth: 8, Square: 10,8	
+depth: 1, Square: 12,6	depth: 2, Square: 8,7	depth: 3, Square: 7,11	depth: 4, Square: 8,7	depth: 5, Square: 8,11	depth: 6, Square: 8,7	depth: 7, Square: 7,11	depth: 8, Square: 9,7	
+depth: 1, Square: 12,11	depth: 2, Square: 6,12	depth: 3, Square: 7,11	depth: 4, Square: 11,10	depth: 5, Square: 7,11	depth: 6, Square: 11,10	depth: 7, Square: 7,11	depth: 8, Square: 11,10	
+depth: 1, Square: 10,7	depth: 2, Square: 7,11	depth: 3, Square: 7,11	depth: 4, Square: 11,9	depth: 5, Square: 7,11	depth: 6, Square: 11,9	depth: 7, Square: 7,11	
+depth: 1, Square: 10,7	depth: 2, Square: 8,6	depth: 3, Square: 12,10	depth: 4, Square: 12,10	depth: 5, Square: 12,10	depth: 6, Square: 12,10	depth: 7, Square: 12,10	depth: 8, Square: 12,10	depth: 9, Square: 12,10	depth: 10, Square: 12,10	
+depth: 1, Square: 10,7	depth: 2, Square: 12,10	depth: 3, Square: 7,11	depth: 4, Square: 11,11	depth: 5, Square: 7,11	depth: 6, Square: 7,11	depth: 7, Square: 7,11	depth: 8, Square: 11,11	
+depth: 1, Square: 6,5	depth: 2, Square: 6,5	depth: 3, Square: 6,5	depth: 4, Square: 6,5	depth: 5, Square: 6,5	depth: 6, Square: 6,5	depth: 7, Square: 6,5	depth: 8, Square: 6,5	
+depth: 1, Square: 11,6	depth: 2, Square: 6,6	depth: 3, Square: 6,6	depth: 4, Square: 6,6	depth: 5, Square: 6,6	depth: 6, Square: 6,6	depth: 7, Square: 6,6	depth: 8, Square: 6,6	depth: 9, Square: 6,6	depth: 10, Square: 6,6	
+depth: 1, Square: 9,8	depth: 2, Square: 9,8	depth: 3, Square: 9,8	depth: 4, Square: 8,8	
+depth: 1, Square: 10,10	depth: 2, Square: 7,9	depth: 3, Square: 10,10	depth: 4, Square: 7,9	depth: 5, Square: 10,9	depth: 6, Square: 7,9	
+depth: 1, Square: 10,10	depth: 2, Square: 9,7	depth: 3, Square: 10,10	depth: 4, Square: 9,7	depth: 5, Square: 6,10	depth: 6, Square: 7,8	
+depth: 1, Square: 7,11	depth: 2, Square: 9,8	depth: 3, Square: 7,11	depth: 4, Square: 6,10	depth: 5, Square: 6,8	depth: 6, Square: 6,10	depth: 7, Square: 6,8	depth: 8, Square: 6,10	
+depth: 1, Square: 9,6	depth: 2, Square: 9,8	depth: 3, Square: 5,11	depth: 4, Square: 9,8	depth: 5, Square: 9,8	depth: 6, Square: 9,8	depth: 7, Square: 5,11	depth: 8, Square: 9,8	
+depth: 1, Square: 10,6	depth: 2, Square: 6,8	depth: 3, Square: 5,11	depth: 4, Square: 6,8	depth: 5, Square: 6,8	depth: 6, Square: 6,9	depth: 7, Square: 6,8	depth: 8, Square: 6,9	
+depth: 1, Square: 8,11	depth: 2, Square: 8,7	depth: 3, Square: 5,11	depth: 4, Square: 8,7	depth: 5, Square: 5,11	depth: 6, Square: 8,7	
+depth: 1, Square: 8,11	depth: 2, Square: 7,6	depth: 3, Square: 9,6	depth: 4, Square: 10,9	depth: 5, Square: 9,6	depth: 6, Square: 10,9	
+depth: 1, Square: 12,6	depth: 2, Square: 11,10	depth: 3, Square: 7,6	depth: 4, Square: 7,6	depth: 5, Square: 7,6	depth: 6, Square: 7,6	depth: 7, Square: 7,6	depth: 8, Square: 7,6	depth: 9, Square: 7,6	depth: 10, Square: 7,6	
+depth: 1, Square: 8,11	depth: 2, Square: 7,6	depth: 3, Square: 9,6	depth: 4, Square: 7,6	depth: 5, Square: 9,6	depth: 6, Square: 7,6	depth: 7, Square: 7,6	depth: 8, Square: 7,6	depth: 9, Square: 7,6	depth: 10, Square: 7,6	
+depth: 1, Square: 6,5	depth: 2, Square: 6,5	depth: 3, Square: 6,5	depth: 4, Square: 6,5	depth: 5, Square: 6,5	depth: 6, Square: 6,5	depth: 7, Square: 6,5	depth: 8, Square: 6,5	depth: 9, Square: 6,5	depth: 10, Square: 6,5	
+depth: 1, Square: 8,11	depth: 2, Square: 7,5	depth: 3, Square: 7,7	depth: 4, Square: 9,6	depth: 5, Square: 9,6	depth: 6, Square: 9,6	depth: 7, Square: 9,6	depth: 8, Square: 9,6	depth: 9, Square: 9,6	depth: 10, Square: 9,6	
+depth: 1, Square: 8,11	depth: 2, Square: 8,6	depth: 3, Square: 7,7	depth: 4, Square: 8,6	depth: 5, Square: 7,7	depth: 6, Square: 8,6	depth: 7, Square: 6,6	depth: 8, Square: 8,6	depth: 9, Square: 5,11	
+depth: 1, Square: 10,10	depth: 2, Square: 10,10	depth: 3, Square: 10,10	depth: 4, Square: 10,10	depth: 5, Square: 10,10	depth: 6, Square: 10,10	depth: 7, Square: 10,10	depth: 8, Square: 10,10	depth: 9, Square: 10,10	depth: 10, Square: 10,10	
+depth: 1, Square: 11,7	depth: 2, Square: 6,12	depth: 3, Square: 6,12	depth: 4, Square: 6,12	depth: 5, Square: 6,12	depth: 6, Square: 6,12	depth: 7, Square: 6,12	depth: 8, Square: 6,12	depth: 9, Square: 6,12	depth: 10, Square: 6,12	
+depth: 1, Square: 9,8	depth: 2, Square: 9,8	depth: 3, Square: 9,8	depth: 4, Square: 8,8	
+depth: 1, Square: 10,10	depth: 2, Square: 7,9	depth: 3, Square: 10,10	depth: 4, Square: 7,9	depth: 5, Square: 10,9	depth: 6, Square: 7,9	
+depth: 1, Square: 10,10	depth: 2, Square: 9,7	depth: 3, Square: 10,10	depth: 4, Square: 9,7	depth: 5, Square: 6,10	depth: 6, Square: 7,8	
+depth: 1, Square: 9,12	depth: 2, Square: 9,7	depth: 3, Square: 9,6	depth: 4, Square: 9,7	depth: 5, Square: 9,11	depth: 6, Square: 9,7	depth: 7, Square: 9,7	depth: 8, Square: 9,7	
+depth: 1, Square: 5,11	depth: 2, Square: 10,6	depth: 3, Square: 10,6	depth: 4, Square: 7,10	depth: 5, Square: 10,6	depth: 6, Square: 7,10	
+depth: 1, Square: 10,10	depth: 2, Square: 9,11	depth: 3, Square: 7,11	depth: 4, Square: 9,11	depth: 5, Square: 10,6	depth: 6, Square: 8,11	
+depth: 1, Square: 10,10	depth: 2, Square: 7,11	depth: 3, Square: 7,12	depth: 4, Square: 9,12	depth: 5, Square: 7,12	depth: 6, Square: 6,9	depth: 7, Square: 7,12	depth: 8, Square: 7,11	
+depth: 1, Square: 10,10	depth: 2, Square: 10,6	depth: 3, Square: 10,6	depth: 4, Square: 9,12	depth: 5, Square: 10,6	depth: 6, Square: 9,12	depth: 7, Square: 9,11	
+depth: 1, Square: 5,9	depth: 2, Square: 10,13	depth: 3, Square: 10,13	depth: 4, Square: 6,11	depth: 5, Square: 10,13	depth: 6, Square: 6,11	
+depth: 1, Square: 5,9	depth: 2, Square: 10,13	depth: 3, Square: 5,11	depth: 4, Square: 11,10	depth: 5, Square: 10,13	depth: 6, Square: 11,9	depth: 7, Square: 10,13	
+depth: 1, Square: 7,6	depth: 2, Square: 10,6	depth: 3, Square: 5,11	depth: 4, Square: 12,11	depth: 5, Square: 10,13	depth: 6, Square: 8,7	depth: 7, Square: 11,5	
+depth: 1, Square: 8,10	depth: 2, Square: 10,6	depth: 3, Square: 11,14	depth: 4, Square: 12,10	depth: 5, Square: 11,5	depth: 6, Square: 10,13	depth: 7, Square: 11,5	depth: 8, Square: 12,10	depth: 9, Square: 11,14	
+depth: 1, Square: 10,12	depth: 2, Square: 10,6	depth: 3, Square: 5,11	depth: 4, Square: 10,13	depth: 5, Square: 10,13	depth: 6, Square: 10,11	depth: 7, Square: 11,14	depth: 8, Square: 10,6	depth: 9, Square: 11,14	
+depth: 1, Square: 10,12	depth: 2, Square: 10,13	depth: 3, Square: 11,14	depth: 4, Square: 10,11	depth: 5, Square: 11,14	depth: 6, Square: 10,11	depth: 7, Square: 11,14	
+depth: 1, Square: 9,8	depth: 2, Square: 9,8	depth: 3, Square: 9,8	
+depth: 1, Square: 9,7	depth: 2, Square: 8,8	depth: 3, Square: 9,7	depth: 4, Square: 8,8	
+depth: 1, Square: 11,11	depth: 2, Square: 8,10	depth: 3, Square: 11,11	depth: 4, Square: 8,10	
+depth: 1, Square: 11,11	depth: 2, Square: 10,8	depth: 3, Square: 11,11	depth: 4, Square: 10,8	depth: 5, Square: 7,11	depth: 6, Square: 10,7	
+depth: 1, Square: 9,8	depth: 2, Square: 9,8	depth: 3, Square: 9,8	
+depth: 1, Square: 7,8	depth: 2, Square: 7,7	depth: 3, Square: 7,8	depth: 4, Square: 7,7	depth: 5, Square: 7,7	depth: 6, Square: 8,9	
+depth: 1, Square: 12,12	depth: 2, Square: 7,7	depth: 3, Square: 12,12	depth: 4, Square: 7,7	depth: 5, Square: 7,7	depth: 6, Square: 7,7	
+depth: 1, Square: 11,6	depth: 2, Square: 11,11	depth: 3, Square: 11,11	depth: 4, Square: 11,11	depth: 5, Square: 11,6	
+depth: 1, Square: 10,6	depth: 2, Square: 10,9	depth: 3, Square: 10,9	depth: 4, Square: 10,9	depth: 5, Square: 10,9	depth: 6, Square: 10,9	
+depth: 1, Square: 13,5	depth: 2, Square: 8,10	depth: 3, Square: 7,11	depth: 4, Square: 12,6	depth: 5, Square: 8,10	depth: 6, Square: 12,6	
+depth: 1, Square: 7,11	
+depth: 1, Square: 9,8	
+depth: 1, Square: 9,8	depth: 2, Square: 9,8	depth: 3, Square: 9,8	depth: 4, Square: 8,8	
+depth: 1, Square: 10,10	depth: 2, Square: 7,9	depth: 3, Square: 10,10	depth: 4, Square: 7,9	depth: 5, Square: 10,9	
+depth: 1, Square: 10,10	depth: 2, Square: 9,7	depth: 3, Square: 10,10	depth: 4, Square: 9,7	depth: 5, Square: 6,10	depth: 6, Square: 7,8	
+depth: 1, Square: 9,12	depth: 2, Square: 9,7	depth: 3, Square: 9,6	depth: 4, Square: 9,7	depth: 5, Square: 9,11	depth: 6, Square: 9,7	depth: 7, Square: 9,7	depth: 8, Square: 9,7	
+depth: 1, Square: 5,11	depth: 2, Square: 10,6	depth: 3, Square: 10,6	depth: 4, Square: 7,10	depth: 5, Square: 10,6	depth: 6, Square: 7,10	
+depth: 1, Square: 10,10	depth: 2, Square: 9,11	depth: 3, Square: 7,11	depth: 4, Square: 9,11	depth: 5, Square: 10,6	depth: 6, Square: 8,11	
+depth: 1, Square: 5,10	depth: 2, Square: 7,11	depth: 3, Square: 7,12	depth: 4, Square: 6,8	
+depth: 1, Square: 9,8	depth: 2, Square: 9,8	depth: 3, Square: 9,8	depth: 4, Square: 8,8	depth: 5, Square: 9,8	depth: 6, Square: 8,8	
+depth: 1, Square: 10,10	depth: 2, Square: 10,8	depth: 3, Square: 10,10	depth: 4, Square: 10,8	depth: 5, Square: 7,11	depth: 6, Square: 10,8	
+depth: 1, Square: 8,11	depth: 2, Square: 9,8	depth: 3, Square: 8,11	depth: 4, Square: 9,8	depth: 5, Square: 9,8	depth: 6, Square: 9,8	depth: 7, Square: 9,8	depth: 8, Square: 11,9	
+depth: 1, Square: 6,10	depth: 2, Square: 11,10	depth: 3, Square: 11,10	depth: 4, Square: 11,10	depth: 5, Square: 7,10	depth: 6, Square: 11,10	depth: 7, Square: 11,10	depth: 8, Square: 11,10	depth: 9, Square: 11,10	depth: 10, Square: 11,10	
+depth: 1, Square: 9,13	depth: 2, Square: 9,8	depth: 3, Square: 9,12	depth: 4, Square: 9,8	depth: 5, Square: 9,8	depth: 6, Square: 9,8	depth: 7, Square: 9,8	depth: 8, Square: 9,8	depth: 9, Square: 9,8	
+depth: 1, Square: 11,7	depth: 2, Square: 10,9	depth: 3, Square: 7,8	depth: 4, Square: 10,9	depth: 5, Square: 7,8	depth: 6, Square: 9,7	depth: 7, Square: 9,12	depth: 8, Square: 9,7	
+depth: 1, Square: 7,5	depth: 2, Square: 12,10	depth: 3, Square: 7,8	depth: 4, Square: 10,9	depth: 5, Square: 12,10	depth: 6, Square: 7,9	depth: 7, Square: 12,10	depth: 8, Square: 10,9	
+depth: 1, Square: 8,11	depth: 2, Square: 12,11	depth: 3, Square: 7,8	depth: 4, Square: 10,6	depth: 5, Square: 12,10	depth: 6, Square: 7,9	depth: 7, Square: 12,10	depth: 8, Square: 7,9	
+depth: 1, Square: 8,11	depth: 2, Square: 6,10	depth: 3, Square: 6,8	depth: 4, Square: 7,8	depth: 5, Square: 12,10	depth: 6, Square: 7,10	depth: 7, Square: 12,10	
+depth: 1, Square: 11,5	depth: 2, Square: 12,11	depth: 3, Square: 6,10	depth: 4, Square: 8,9	depth: 5, Square: 12,10	depth: 6, Square: 8,9	depth: 7, Square: 6,10	
+depth: 1, Square: 6,7	depth: 2, Square: 12,11	depth: 3, Square: 6,10	depth: 4, Square: 12,11	depth: 5, Square: 6,10	depth: 6, Square: 9,6	
+depth: 1, Square: 10,11	depth: 2, Square: 5,11	depth: 3, Square: 5,11	depth: 4, Square: 13,11	depth: 5, Square: 9,4	depth: 6, Square: 8,11	depth: 7, Square: 13,12	depth: 8, Square: 8,11	
+depth: 1, Square: 7,6	depth: 2, Square: 9,5	depth: 3, Square: 5,11	depth: 4, Square: 12,11	depth: 5, Square: 5,11	depth: 6, Square: 6,12	depth: 7, Square: 12,10	
+depth: 1, Square: 7,6	depth: 2, Square: 9,5	depth: 3, Square: 5,11	depth: 4, Square: 12,11	depth: 5, Square: 5,11	depth: 6, Square: 9,12	depth: 7, Square: 12,10	
+depth: 1, Square: 5,13	depth: 2, Square: 5,13	depth: 3, Square: 5,13	depth: 4, Square: 5,13	depth: 5, Square: 5,13	depth: 6, Square: 5,13	depth: 7, Square: 5,13	depth: 8, Square: 5,13	depth: 9, Square: 5,13	
+depth: 1, Square: 6,15	depth: 2, Square: 6,10	depth: 3, Square: 6,10	depth: 4, Square: 6,10	depth: 5, Square: 6,10	depth: 6, Square: 6,10	depth: 7, Square: 6,10	depth: 8, Square: 6,10	depth: 9, Square: 6,10	depth: 10, Square: 6,10	
+depth: 1, Square: 9,8	depth: 2, Square: 9,8	depth: 3, Square: 9,8	depth: 4, Square: 8,8	depth: 5, Square: 9,8	depth: 6, Square: 8,8	
+depth: 1, Square: 9,7	
+depth: 1, Square: 9,7	
+depth: 1, Square: 9,7	
+depth: 1, Square: 9,8	
